@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/AndreiaBernardo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreiaBernardo&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaBernardo&layout=compact&langs_count=6&theme=shades-of-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreiaBernardo&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaBernardo&layout=compact&langs_count=6&theme=outrun"/>
 </div>
     
 <div style="display: inline_block"><br>
